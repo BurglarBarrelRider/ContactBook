@@ -1,0 +1,25 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "name",
+      "telephone": 123,
+      "address": "address",
+      "email": "email"
+    },
+    {
+      "name": "as",
+      "telephone": "as",
+      "address": "as",
+      "email": "as",
+      "id": 3
+    },
+    {
+      "name": "Patrick Bateman",
+      "telephone": "Pi num ",
+      "address": "sigmatown",
+      "email": "americanpsycho@gmail.com",
+      "id": 4
+    }
+  ]
+}
